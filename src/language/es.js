@@ -1,4 +1,4 @@
-export const english = {
+export const spain = {
   "Valid till": "Válido hasta",
   get: "obtener",
   "Theme Mode": "Modo de Tema",
